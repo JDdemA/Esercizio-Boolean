@@ -1,0 +1,75 @@
+body {
+background-image: url(background.png);
+
+}
+
+.contenitore {
+width: 1000px;
+margin:auto;
+}
+
+.logo {
+width: 200px;
+display: inline-block;
+position: relative;
+left: 400px;
+
+}
+
+.titolo {
+  width: 800px;
+  color: green;
+  position: relative;
+  left: 270px;
+
+}
+
+
+.sfondobutton {
+border: solid 10px green;
+background-color: green;
+
+}
+
+
+
+.barra {
+background-color: red;
+
+}
+
+
+.sinistra {
+display: inline-block;
+
+}
+
+.destra {
+display: inline-block;
+color: white;
+
+}
+
+h3 {
+
+  color: white;
+}
+
+span {
+  color: white;
+}
+
+.barracarica1{
+
+border: solid 10px orange;
+}
+
+.barracarica2{
+
+border: solid 10px green;
+}
+
+.barracarica3{
+
+border: solid 10px red;
+}
